@@ -1,4 +1,4 @@
 /// write your code below!
-function happyHolidays(string){
-  return string.happyHolidays()
+function happyHolidays(){
+  return "Happy Holidays[]"
 }
